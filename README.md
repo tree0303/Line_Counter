@@ -10,6 +10,7 @@ exclude_extの中に数えてほしくないファイルの拡張子を入れる
 check_ext=[".css"], exclude_ext=[".map.css"]とすることで、cssのファイルの行数を数えるが.map.cssのファイルの行数は数えないことができる。（あまり使わないかも....）
 
 ## 開発環境
+|||
 |---|---|
 |開発プラットフォーム|Visual Studio Code|
 |開発言語|Python 3.10.8|
